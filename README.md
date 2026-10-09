@@ -8,7 +8,7 @@ A regression model deployment project.
 - **Hosting:** Render
 
 ## Live link
-(Render link will be added here)
+https://house-price-app-vvgk.onrender.com
 
 ## How to run locally
 1. pip install -r requirements.txt
